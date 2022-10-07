@@ -8,7 +8,7 @@
 
 # Install Instructions
 
-## clone the reop
+## clone the repo
 
 # Usage Information
 
